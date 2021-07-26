@@ -1,16 +1,14 @@
-### Hi there 👋
+### Привет, меня зовут Михаил
 
-<!--
-**MIkhailMikhalich/MIkhailMikhalich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔍Изучаю новые фреймворки
+- 📈Стремлюсь улучшить собственную эффективность
+- 🎯Нацелен на достижении собственных целей
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мой стек:
+- [HTML](https://www.w3.org/html/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [JS](https://www.javascript.com/)
+- [React](https://reactjs.org/)
+- [NodeJS](https://nodejs.org)
+- [ExpressJS](https://expressjs.com)
+- [MongoDB](https://www.javascript.com/)
