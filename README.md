@@ -12,3 +12,5 @@
 - [NodeJS](https://nodejs.org)
 - [ExpressJS](https://expressjs.com)
 - [MongoDB](https://www.javascript.com/)
+## Контакты:
+- Telegram: @xMedveDx
