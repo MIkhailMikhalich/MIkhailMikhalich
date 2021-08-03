@@ -11,6 +11,6 @@
 - [React](https://reactjs.org/)
 - [NodeJS](https://nodejs.org)
 - [ExpressJS](https://expressjs.com)
-- [MongoDB](https://www.javascript.com/)
+- [MongoDB](https://www.mongodb.com/)
 ## Контакты:
 - Telegram: @xMedveDx
