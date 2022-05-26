@@ -9,6 +9,8 @@
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [JS](https://www.javascript.com/)
 - [React](https://reactjs.org/)
+- [VUE](https://ru.vuejs.org/)
+- [Vuetify](https://vuetifyjs.com/en/)
 - [NodeJS](https://nodejs.org)
 - [ExpressJS](https://expressjs.com)
 - [MongoDB](https://www.mongodb.com/)
